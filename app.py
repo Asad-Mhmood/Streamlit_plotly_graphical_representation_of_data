@@ -11,7 +11,7 @@ data['date_added']=pd.to_datetime(data['date_added'])
 data['country']='Pakistan'
 
 
-st.sidebar.title('Zameen.com')
+st.sidebar.title('Real Estate')
 
 # Function for the data of entire country
 def country():
@@ -89,7 +89,7 @@ if plot:
 
 st.sidebar.write(' ')
 st.sidebar.write(' ')
-st.sidebar.write('Contact us for Data Science ,Data Collection and Data Visualization Services')
+st.sidebar.write('Contact us for Data Science and Computer vision services')
 st.sidebar.subheader('WhatsApp')
 st.sidebar.code('03269189901')
 st.sidebar.subheader('Email')
